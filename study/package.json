@@ -1,0 +1,11 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kumaran",
+  "license": "MIT"
+}
